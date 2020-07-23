@@ -1,0 +1,16 @@
+#characterEntry{
+    position: absolute;
+    left: 10px;
+    top: 250px;
+}
+
+#CharacterAttributes {
+    position: absolute;
+    left: 10px;
+    top: 100px;
+}
+#CharacterAttributes2 {
+    position: absolute;
+    left: 95px;
+    top: 100px;
+}

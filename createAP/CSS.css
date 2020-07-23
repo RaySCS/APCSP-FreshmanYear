@@ -1,0 +1,45 @@
+#characterEntry{
+    position: absolute;
+    left: 5px;
+    top: 300px;
+}
+#chooseCareer{
+    position: absolute;
+    left: 500px;
+    top: 600px;
+}
+#outputCareer{
+    position: absolute;
+    left: 500px;
+    top: 550px;
+}
+#output3{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+#output4{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+#output5{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+#Preset{
+    position: absolute;
+    left: 900px;
+    top: 20px;
+}
+#outputCar{
+    position: absolute;
+    left: 900px;
+    top: 40px;
+}
+#outputhouse{
+    position: absolute;
+    left: 900px;
+    top: 60px;
+}

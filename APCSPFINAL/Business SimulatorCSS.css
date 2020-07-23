@@ -1,0 +1,726 @@
+#myCanvas{
+    position: absolute;
+    left: 1150px;
+    top: 320px;
+}
+body {
+    background-color: lightgrey;
+}
+#outputEndCollege{
+    color: midnightblue;
+    position: absolute;
+    left: 520px;
+    top: 700px;
+}
+#outputEndCash{
+    color: midnightblue;
+    position: absolute;
+    left: 520px;
+    top: 680px;
+}
+#outputEndCareer{
+    color: midnightblue;
+    position: absolute;
+    left: 520px;
+    top: 720px;
+}
+#outputEndHouse{
+    color: midnightblue;
+    position: absolute;
+    left: 520px;
+    top: 740px;
+}
+#outputEndCar{
+    color: midnightblue;
+    position: absolute;
+    left: 520px;
+    top: 760px;
+}
+#outputEndInvest{
+    color: midnightblue;
+    position: absolute;
+    left: 520px;
+    top: 780px;
+}
+#outputEndStocks{
+    color: midnightblue;
+    position: absolute;
+    left: 520px;
+    top: 800px;
+}
+#outputEndLottery{
+    color: midnightblue;
+    position: absolute;
+    left: 520px;
+    top: 820px;
+}
+#outputEndGood{
+    color: midnightblue;
+    position: absolute;
+    left: 520px;
+    top: 840px;
+}
+#outputEndBad{
+    color: midnightblue;
+    position: absolute;
+    left: 520px;
+    top: 860px;
+}
+#events{
+    position: absolute;
+    left: 110px;
+    top: 150px;
+}
+#eventDisplayer{
+    color: blue;
+    font-weight: bold;
+    position: absolute;
+    left: 250px;
+    top: 160px;
+}
+#characterEntry{
+    position: absolute;
+    left: 10px;
+    top: 300px;
+}
+#outputTrough{
+    position: absolute;
+    left: 10px;
+    top: 325px;
+}
+#outputShowPrice1{
+    position: absolute;
+    left: 997px;
+    top: 400px;
+}
+#outputShowPrice2{
+    position: absolute;
+    left: 1350px;
+    top: 390px;
+}
+#outputShowPrice3{
+    position: absolute;
+    left: 1350px;
+    top: 560px;
+}
+#outputShowPrice4{
+    position: absolute;
+    left: 990px;
+    top: 550px;
+}
+#s1{
+    position: absolute;
+    left: 1110px;
+    top: 100px;
+}
+#purchaseOne{
+    position: absolute;
+    left: 1150px;
+    top: 510px;
+}
+#purchaseTwo{
+    position: absolute;
+    left: 1150px;
+    top: 660px;
+}
+#purchase1{
+    position: absolute;
+    left: 1100px;
+    top: 400px;
+}
+#purchase2{
+    position: absolute;
+    left: 1250px;
+    top: 400px;
+}
+#purchase3{
+    position: absolute;
+    left: 1100px;
+    top: 550px;
+}
+#purchase4{
+    position: absolute;
+    left: 1250px;
+    top: 550px;
+}
+#outputrevenuestocks{
+    position: absolute;
+    left: 1110px;
+    top: 210px;
+}
+#outputrevenue{
+    position: absolute;
+    left: 275px;
+    top: 665px;
+}
+#chooseStocks{
+    position: absolute;
+    left: 1100px;
+    top: 250px;
+}
+#chooseStocks2{
+    position: absolute;
+    left: 1100px;
+    top: 280px;
+}
+#typeofStock{
+    position: absolute;
+    left: 1260px;
+    top: 250px;
+}
+#quantity{
+    position: absolute;
+    left: 1260px;
+    top: 280px;
+}
+#stock1{
+    position: absolute;
+    left: 1240px;
+    top: 80px;
+    color: darkslateblue;
+}
+#stock2{
+    position: absolute;
+    left: 1240px;
+    top: 110px;
+    color: darkslateblue;
+}
+#stock3{
+    position: absolute;
+    left: 1240px;
+    top: 140px;
+    color: darkslateblue;
+}
+#stock4{
+    position: absolute;
+    left: 1240px;
+    top: 170px;
+    color: darkslateblue;
+}
+#outputExpansion{
+    position: absolute;
+    left: 10px;
+    top: 350px;
+}
+#outputPeak{
+    position: absolute;
+    left: 10px;
+    top: 375px;
+}
+#outputContraction{
+    position: absolute;
+    left: 10px;
+    top: 400px;
+}
+#outputAlert{
+    position: absolute;
+    left: 10px;
+    top: 700px;
+    color: blue;
+}
+#chooseCollege{
+    position: absolute;
+    left: 620px;
+    top: 600px;
+}
+#fChoice{
+    position: absolute;
+    left: 800px;
+    top: 600px;
+}
+#sChoice{
+    position: absolute;
+    left: 800px;
+    top: 650px;
+}
+#chooseCareer{
+    position: absolute;
+    left: 620px;
+    top: 650px;
+}
+#outputHouses{
+    position: absolute;
+    left: 20px;
+    top: 600px;
+}
+#outputHouse1Display{
+    position: absolute;
+    left: 20px;
+    top: 620px;
+    color: #00008B;
+}
+#outputHouse2Display{
+    position: absolute;
+    left: 250px;
+    top: 620px;
+    color: #00008B;
+}
+#outputHouse1Cost{
+    position: absolute;
+    left: 20px;
+    top: 640px;
+    color: #00008B
+}
+#outputHouse2Cost{
+    position: absolute;
+    left: 250px;
+    top: 640px;
+    color: #00008B;
+}
+
+#h1{
+    position: absolute;
+    left: 20px;
+    top: 500px;
+}
+#h2{
+    position: absolute;
+    left: 250px;
+    top: 500px;
+}
+
+#chooseHouse{
+    position: absolute;
+    left: 120px;
+    top: 680px;
+}
+
+#c1{
+    position: absolute;
+    left: 440px;
+    top: 250px;
+}
+#c2{
+    position: absolute;
+    left: 740px;
+    top: 250px;
+}
+#outputCollegeDisplay1{
+    color: #00008B;
+    position: absolute;
+    left: 450px;
+    top: 500px;
+}
+#outputCollegeDisplay2{
+    color: #00008B;
+    position: absolute;
+    left: 750px;
+    top: 500px;
+}
+#outputCollege1Price{
+    color: #00008B;
+    position: absolute;
+    left: 450px;
+    top: 525px;
+}
+#outputCollege2Price{
+    color: #00008B;
+    position: absolute;
+    left: 750px;
+    top: 525px;
+}
+
+#output15{
+    color: darkblue;
+}
+#output175{
+    color: darkblue;
+}
+#output1{
+    color: darkslateblue;
+}
+#CollegeBalance{
+    color: red;
+}
+#HouseBalance{
+    color: red;
+}
+#carBalance{
+    color:red;
+}
+#Preset{
+    color: darkred;
+}
+
+#outputCash{
+    color: navy;
+}
+#output25{
+    color: darkgreen;
+}
+#gas{
+    position: absolute;
+    left: 1310px;
+    top: 470px;
+    color: darkblue;
+}
+
+#outputCollege{
+    position: absolute;
+    left: 480px;
+    top: 550px;
+    color: darkblue;
+}
+#output3{
+    position: absolute;
+    left: 500px;
+    top:50px;
+}
+#output4{
+    position: relative;
+    left: 500px;
+    top: 20px;
+    color: midnightblue;
+}
+#output5{
+    position: absolute;
+    left: 500px;
+    top: 80px;
+    color: midnightblue;
+}
+#Preset{
+    position: absolute;
+    left: 900px;
+    top: 20px;
+}
+#outputCar{
+    position: absolute;
+    left: 900px;
+    top: 40px;
+}
+#outputhouse{
+    position: absolute;
+    left: 900px;
+    top: 60px;
+}
+
+#first {
+    position: absolute;
+    left: 700px;
+    top: 400px;
+    display: inline-block;
+    padding: 60px 100px;
+    font-size: 40px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#first:hover {background-color: #3e8e41}
+
+#first:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#ask {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #FF7F50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #989;
+}
+
+#ask:hover {background-color: #00BFFF}
+
+#ask:active {
+    background-color: #00BFFF;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#end {
+    position: absolute;
+    left: 100px;
+    top:820px;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: royalblue;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 9px #989;
+}
+
+#end:hover {background-color: #00BFFF}
+
+#end:active {
+    background-color: #00BFFF;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+
+#roll {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #00FFFF;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#roll:hover {background-color: #00BFFF}
+
+#roll:active {
+    background-color: #00BFFF;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#buy {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #66CDAA;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#buy:hover {background-color: #C71585}
+
+#buy:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#ask2 {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: midnightblue;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#ask2:hover {background-color: blue}
+
+#ask2:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#invest {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: steelblue;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#invest:hover {background-color: lightsteelblue}
+
+#invest:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#payOff {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: green;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#payOff:hover {background-color: forestgreen}
+
+#payOff:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#check {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: slateblue;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#check:hover {background-color: darkslateblue}
+
+#check:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#eventButton {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: orangered;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#eventButton:hover {background-color: darkorange}
+
+#eventButton:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#goTO {
+    position: absolute;
+    left: 600px;
+    top:750px;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: palegoldenrod;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#goTO:hover {background-color: red}
+
+#goTO:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+
+
+#characterEntry{
+    background-color: #3CBC8D;
+    border: 2px solid blue;
+    border-radius: 4px;
+}
+
+#chooseCollege{
+    background-color: #F5F5DC;
+    border: 2px solid darkgoldenrod;
+    border-radius: 4px;
+}
+#chooseHouse{
+    background-color: lightsteelblue;
+    border: 2px solid midnightblue;
+    border-radius: 4px;
+}
+#chooseCareer{
+    background-color: #F5F5DC;
+    border: 2px solid red;
+    border-radius: 4px;
+}
+#chooseStocks{
+    background-color: #00FFFF;
+    border: 2px solid #00008B;
+    border-radius: 4px;
+}
+#chooseStocks2{
+    background-color: #00FFFF;
+    border: 2px solid #00008C;
+    border-radius: 4px;
+}
+#purchaseOne{
+    background-color: #87CEFA;
+    border: 2px solid #DB7093;
+    border-radius: 4px;
+}
+#purchaseTwo{
+    background-color: #87CEFA;
+    border: 2px solid #DB7093;
+    border-radius: 4px;
+}
+
+#outputShowPrice1{
+    color: midnightblue;
+}
+#outputShowPrice2{
+    color: midnightblue;
+}
+#outputShowPrice3{
+    color: midnightblue;
+}
+#outputShowPrice4{
+    color: midnightblue;
+}
+
+#outputTrough{
+    color: blueviolet;
+}
+#outputExpansion{
+    color: blueviolet;
+}
+#outputPeak{
+    color: blueviolet;
+}
+#outputContraction{
+    color: blueviolet;
+}

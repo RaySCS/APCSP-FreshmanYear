@@ -1,0 +1,20 @@
+#pics{
+    position: absolute;
+    top: 20px;
+    right: 80;
+    width: 400px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+body {
+    background-color: lightblue;
+}
+#lifeShower{
+    color: #0000FF;
+}
+#levelShower{
+    color: #0000FF;
+}
+#points{
+    color: #0000FF;
+}

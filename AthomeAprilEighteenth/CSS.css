@@ -1,0 +1,148 @@
+#characterEntry{
+    position: absolute;
+    left: 5px;
+    top: 300px;
+}
+#chooseCareer{
+    position: absolute;
+    left: 500px;
+    top: 600px;
+}
+
+#output15{
+    color: darkblue;
+}
+#output175{
+    color: darkblue;
+}
+#output1{
+    color: #3CBC8D;
+}
+
+#Preset{
+    color: darkred;
+}
+
+#outputCash{
+    color: navy;
+}
+#output25{
+    color: darkgreen;
+}
+
+#outputCareer{
+    position: absolute;
+    left: 500px;
+    top: 550px;
+    color: darkblue;
+}
+#output3{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+#output4{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+#output5{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+#Preset{
+    position: absolute;
+    left: 900px;
+    top: 20px;
+}
+#outputCar{
+    position: absolute;
+    left: 900px;
+    top: 40px;
+}
+#outputhouse{
+    position: absolute;
+    left: 900px;
+    top: 60px;
+}
+
+#first {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#first:hover {background-color: #3e8e41}
+
+#first:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#roll {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #00FFFF;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#roll:hover {background-color: #00BFFF}
+
+#roll:active {
+    background-color: #00BFFF;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#buy {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #66CDAA;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#buy:hover {background-color: #C71585}
+
+#buy:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#characterEntry{
+    background-color: #3CBC8D;
+    border: 2px solid blue;
+    border-radius: 4px;
+}
+
+#chooseCareer{
+    background-color: #F5F5DC;
+    border: 2px solid darkgoldenrod;
+    border-radius: 4px;
+}

@@ -1,0 +1,141 @@
+body {
+    background-image: url("https://cdn.wallpapersafari.com/28/94/BNFKA1.jpg");
+}
+#outputone{
+    color: darkblue;
+}
+#output1{
+    color: cornflowerblue;
+}
+#output2{
+    color: white;
+}
+#output3{
+    color: navy;
+}
+#output8{
+    color: whitesmoke;
+}
+#output9{
+    color: whitesmoke;
+}
+#output10{
+    color: whitesmoke;
+}
+h1{
+    color: whitesmoke;
+}
+p1 {
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 20px;
+    width: 500px;
+    right: 100px;
+}
+p2{
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 20px;
+    width: 500px;
+    right: 100px;
+}
+p3{
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 20px;
+    width: 500px;
+    right: 100px;
+}
+p4{
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 20px;
+    width: 500px;
+    right: 100px;
+}
+p5{
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 20px;
+    width: 500px;
+    right: 100px;
+}
+p35{
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 20px;
+    width: 500px;
+    right: 100px;
+}
+#category{
+    border-radius: 30%;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#twoPlay{
+    border-radius: 30%;
+    background-color: slateblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#guessWhole{
+    border-radius: 30%;
+    background-color: lightsteelblue;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+#guessone{
+    border-radius: 30%;
+    background-color: forestgreen;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#hint{
+    border-radius: 30%;
+    background-color: navy;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#resetb{
+    border-radius: 30%;
+    background-color: plum;
+    border= none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

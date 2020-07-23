@@ -1,0 +1,223 @@
+#characterEntry{
+    position: absolute;
+    left: 5px;
+    top: 300px;
+}
+#chooseCollege{
+    position: absolute;
+    left: 620px;
+    top: 600px;
+}
+#outputHouses{
+    position: absolute;
+    left: 20px;
+    top: 600px;
+}
+#outputHouse1Display{
+    position: absolute;
+    left: 20px;
+    top: 620px;
+}
+#outputHouse2Display{
+    position: absolute;
+    left: 250px;
+    top: 620px;
+}
+#outputHouse1Cost{
+    position: absolute;
+    left: 20px;
+    top: 640px;
+}
+#outputHouse2Cost{
+    position: absolute;
+    left: 250px;
+    top: 630px;
+}
+
+#h1{
+    position: absolute;
+    left: 20px;
+    top: 500px;
+}
+#h2{
+    position: absolute;
+    left: 250px;
+    top: 500px;
+}
+
+#chooseHouse{
+    position: absolute;
+    left: 120px;
+    top: 680px;
+}
+
+#c1{
+    position: absolute;
+    left: 450px;
+    top: 250px;
+}
+#c2{
+    position: absolute;
+    left: 750px;
+    top: 250px;
+}
+#outputCollegeDisplay1{
+    position: absolute;
+    left: 450px;
+    top: 500px;
+}
+#outputCollegeDisplay2{
+    position: absolute;
+    left: 750px;
+    top: 500px;
+}
+#outputCollege1Price{
+    position: absolute;
+    left: 450px;
+    top: 525px;
+}
+#outputCollege2Price{
+    position: absolute;
+    left: 750px;
+    top: 525px;
+}
+
+#output15{
+    color: darkblue;
+}
+#output175{
+    color: darkblue;
+}
+#output1{
+    color: #3CBC8D;
+}
+
+#Preset{
+    color: darkred;
+}
+
+#outputCash{
+    color: navy;
+}
+#output25{
+    color: darkgreen;
+}
+
+#outputCollege{
+    position: absolute;
+    left: 500px;
+    top: 550px;
+    color: darkblue;
+}
+#output3{
+    position: absolute;
+    left: 500px;
+    top:50px;
+}
+#output4{
+    position: relative;
+    left: 500px;
+    top: 20px;
+    color: midnightblue;
+}
+#output5{
+    position: absolute;
+    left: 500px;
+    top: 80px;
+    color: midnightblue;
+}
+#Preset{
+    position: absolute;
+    left: 900px;
+    top: 20px;
+}
+#outputCar{
+    position: absolute;
+    left: 900px;
+    top: 40px;
+}
+#outputhouse{
+    position: absolute;
+    left: 900px;
+    top: 60px;
+}
+
+#first {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#first:hover {background-color: #3e8e41}
+
+#first:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#roll {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #00FFFF;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#roll:hover {background-color: #00BFFF}
+
+#roll:active {
+    background-color: #00BFFF;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#buy {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #66CDAA;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#buy:hover {background-color: #C71585}
+
+#buy:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#characterEntry{
+    background-color: #3CBC8D;
+    border: 2px solid blue;
+    border-radius: 4px;
+}
+
+#chooseCollege{
+    background-color: #F5F5DC;
+    border: 2px solid darkgoldenrod;
+    border-radius: 4px;
+}

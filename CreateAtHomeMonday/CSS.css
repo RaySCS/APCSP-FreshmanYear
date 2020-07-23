@@ -1,0 +1,26 @@
+#characterEntry{
+    position: absolute;
+    left: 5px;
+    top: 300px;
+}
+#ChoiceEntry{
+    position: absolute;
+    left: 500px;
+    top: 360px;
+}
+#output3{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+#output4{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+#output5{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+
